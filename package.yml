@@ -1,0 +1,79 @@
+name: Modernizr
+author: Modernizr
+current: 3.0.0pre
+copyright: "&copy; [Arian Stolwijk](http://www.aryweb.nl) and [MonkeyPhysics.com](http://monkeyphysics.com)"
+license: MIT
+description: Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+
+sources:
+  - src/Modernizr.js
+  - src/html5shiv.js
+  - src/setClasses.js
+  - src/ModernizrProto.js
+  - src/injectElementWithStyles.js setCss.js
+  - src/addTest.js
+  - src/inputElem.js
+  - src/setCssAll.js
+  - src/attrs.js
+  - src/inputattrs.js
+  - src/slice.js
+  - src/classes.js
+  - src/inputs.js
+  - src/smile.js
+  - src/contains.js
+  - src/inputtypes.js
+  - src/testAllProps.js
+  - src/createElement.js
+  - src/is.js
+  - src/testDOMProps.js
+  - src/cssomPrefixes.js
+  - src/isEventSupported.js
+  - src/testMediaQuery.js
+  - src/docElement.js
+  - src/load.js
+  - src/testProp.js
+  - src/domPrefixes.js
+  - src/mStyle.js
+  - src/testProps.js
+  - src/fnBind.js
+  - src/modElem.js
+  - src/testPropsAll.js
+  - src/generate.js
+  - src/mq.js
+  - src/testRunner.js
+  - src/getBody.js
+  - src/omPrefixes.js
+  - src/testStyles.js
+  - src/hasEvent.js
+  - src/prefixed.js
+  - src/tests.js
+  - src/hasOwnProp.js
+  - src/prefixes.js
+  - src/toStringFn.js
+  - src/html5printshiv.js
+  - src/require.js
+  
+
+#    "dependencies": {
+#      "file": "0.2.1",
+#      "mkdirp": "~0.3.4",
+#      "optimist": "~0.3.5",
+#      "requirejs": "~2.1.4",
+#      "underscore": "~1.4.4",
+#      "marked": "~0.2.8"
+#    }
+
+#    "repository": {
+#      "type": "git",
+#      "url": "git://github.com/Modernizr/Modernizr.git"
+#    }
+
+#    "contributors": [
+#      { "name": "Faruk Ates" },
+#      { "name": "Paul Irish" }, 
+#      { "name": "Alex Sexton" }, 
+#      { "name": "Ryan Seddon" }, 
+#      { "name": "Alexander Farkas" }, 
+#      { "name": "Ben Alman" }, 
+#      { "name": "Stu Cox" }
+#    ]
